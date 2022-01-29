@@ -1,5 +1,6 @@
 import math
 
+
 # クラス(データ型)の定義
 
 
@@ -17,7 +18,6 @@ class Circle:
 circle1 = Circle(radius=1)
 print(circle1.area())  # 3.14
 print(circle1.perimeter())  # 6.28
-
 
 circle3 = Circle(radius=3)
 print(circle3.area())  # 28.27
